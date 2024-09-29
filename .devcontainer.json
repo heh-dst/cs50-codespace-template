@@ -1,5 +1,5 @@
 {
-  "image": "ghcr.io/cs50/codespace",
+  "image": "ghcr.io/heh-dst/cs50-codespace",
   "customizations": {
     "vscode": {
       "extensions": [
